@@ -14,11 +14,11 @@
     "access": "public"
   },
   "devDependencies": {
-    "eslint": "^7.25.0",
+    "eslint": "^10.14.0",
     "eslint-plugin-vue": "^9.5.1"
   },
   "peerDependencies": {
-    "eslint": "^7.25.0",
+    "eslint": "^10.14.0",
     "eslint-plugin-vue": "^9.5.1"
   }
 }
